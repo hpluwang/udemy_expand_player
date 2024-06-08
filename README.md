@@ -35,15 +35,15 @@ There are no additional settings or configurations needed. It just works!
 ![expanded_udemy](https://github.com/hpluwang/udemy_expand_player/assets/53874420/86d9f105-2bae-47de-8379-b94a324ff3d8)
   
 
-**Contributing**  
+## Contributing  
 Contributions to improve this extension are welcomed!  
 
-**License**  
+## License  
 This project is licensed under the MIT License.  
 
-**Contact**  
+## Contact  
 For any questions or feedback, feel free to reach out:  
-
 **GitHub: hpluwang  
-Email: hpluwang@gmail.com**
+Email: hpluwang@gmail.com**   
+
 Thank you for using Udemy Expand Player! Enjoy your improved learning experience.
